@@ -59,7 +59,7 @@ return (
           <div className="hidden md:block">
             <a
               href="#contact"
-              className="flex items-center gap-2 bg-transparent border-1 border-white
+              className="flex items-center gap-2 bg-transparent border-1 border-whiteq
                          hover:bg-white text-white font-semibold
                          hover:text-purple-700 px-4 py-3 transition-all duration-300 "
             >
@@ -128,7 +128,7 @@ return (
               
 
               <a
-                href="/DominicMartinez-CV.pdf"
+                href="/Martinez-CV.pdf"
                 download
                 className="flex items-center gap-2 bg-transparent border-2 border-white font-bold
                           hover:bg-white text-white 
