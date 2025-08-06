@@ -13,21 +13,21 @@ const Portfolio = () => {
     id: 1,
     title: "Office of Student Affairs Management Information System",
     subtitle: "Raw PHP | Capstone",
-    image: "/assets/system.png",
+    image: "/portfolio/assets/system.png",
     link: "https://github.com/domslaught/modern-portfolio",
   },
   {
     id: 2,
     title: "Modern Website",
     subtitle: "React | Prototype",
-    image: "/assets/cefi.png",
+    image: "/portfolio/assets/cefi.png",
     link: "https://github.com/domslaught/inventory-system",
   },
   {
     id: 3,
     title: "Inventory System",
     subtitle: "React | Prototype",
-    image: "/assets/kopi.png",
+    image: "/portfolio/assets/kopi.png",
     link: "https://github.com/domslaught/booking-app",
   },
 ];
@@ -41,7 +41,7 @@ return (
         <div className="flex items-center justify-between">
           {/* Logo */}
           <div className="flex items-center font-bold text-xl leading-none tracking-wide font-Orbitron">
-            <img src="/assets/logo.png" alt="Logo" className="w-12 h-11 mx-1" />
+            <img src="/portfolio/assets/logo.png" alt="Logo" className="w-12 h-11 mx-1" />
             <span className="text-gray-400">Alter</span>
           </div>
 
